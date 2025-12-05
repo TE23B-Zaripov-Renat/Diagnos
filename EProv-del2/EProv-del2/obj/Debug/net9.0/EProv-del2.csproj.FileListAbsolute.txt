@@ -1,0 +1,15 @@
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\bin\Debug\net9.0\EProv-del2.exe
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\bin\Debug\net9.0\EProv-del2.deps.json
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\bin\Debug\net9.0\EProv-del2.runtimeconfig.json
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\bin\Debug\net9.0\EProv-del2.dll
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\bin\Debug\net9.0\EProv-del2.pdb
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\obj\Debug\net9.0\EProv-del2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\obj\Debug\net9.0\EProv-del2.AssemblyInfoInputs.cache
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\obj\Debug\net9.0\EProv-del2.AssemblyInfo.cs
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\obj\Debug\net9.0\EProv-del2.csproj.CoreCompileInputs.cache
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\obj\Debug\net9.0\EProv-del2.sourcelink.json
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\obj\Debug\net9.0\EProv-del2.dll
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\obj\Debug\net9.0\refint\EProv-del2.dll
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\obj\Debug\net9.0\EProv-del2.pdb
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\obj\Debug\net9.0\EProv-del2.genruntimeconfig.cache
+C:\Users\renat.zaripov\OneDrive\Ny mapp\EProv-del2\EProv-del2\obj\Debug\net9.0\ref\EProv-del2.dll
